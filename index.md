@@ -177,7 +177,7 @@ address.
 {% endif %}
 
 {% comment %}
-DATE
+MARCH 10, 2022
 
 This block displays the date and links to Google Calendar.
 {% endcomment %}
